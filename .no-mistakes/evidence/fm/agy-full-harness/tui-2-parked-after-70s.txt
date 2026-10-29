@@ -1,0 +1,8 @@
+> Reply with the single word READY and end your turn without running any command. If you later receive a supervision follow-up turn, quote the reason text you were handed verbatim in one line, then
+  end your turn without running any command.
+  READY
+⣟  Generating...
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+>
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+esc to cancel                                                                                                                                                                       Gemini 4 Argon · low

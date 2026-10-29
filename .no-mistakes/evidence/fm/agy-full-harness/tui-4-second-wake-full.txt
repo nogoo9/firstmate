@@ -1,0 +1,73 @@
+
+      ▄▀▀▄        Antigravity CLI 1.4.9
+     ▀▀▀▀▀▀       eterna2net@gmail.com (Google AI Ultra)
+    ▀▀▀▀▀▀▀▀      Gemini 4 Argon (Low)
+   ▄▀▀    ▀▀▄     /tmp/fm-lab.1YT841/fmhome
+  ▄▀▀      ▀▀▄
+
+────────────────────────────────────────────────────────────
+> ithout running any command, reply with only the exact Lab marker token already present in your session start context, then end your turn.
+  FM_LAB_AGY_TUI2_205535
+
+────────────────────────────────────────────────────────────
+> Reply with the single word READY and end your turn without running any command. If you later receive a supervision follow-up turn, quote the reason text you were handed verbatim in one line, then
+  end your turn without running any command.
+  READY
+
+  Stop hook blocked termination: firstmate watcher wake - one supervision event needs a handling turn now. signal: /tmp/fm-lab.1YT841/fmhome/state/lab-task.status Run bin/fm-wake-drain.sh first,
+  handle the wake, then run its exact WAKE_ACK_REQUIRED --ack-through command. Until that post-handling acknowledgement, interruption leaves the wake durable for idempotent re-handling. This Stop
+  hook owns watcher continuity: when the handling turn ends, the next needed cycle parks automatically - do NOT run bin/fm-watch-arm.sh after an ordinary wake.
+
+  Stop hook blocked termination: firstmate watcher wake - one supervision event needs a handling turn now. check: rearm-resurface Run bin/fm-wake-drain.sh first, handle the wake, then run its exact
+  WAKE_ACK_REQUIRED --ack-through command. Until that post-handling acknowledgement, interruption leaves the wake durable for idempotent re-handling. This Stop hook owns watcher continuity: when
+  the handling turn ends, the next needed cycle parks automatically - do NOT run bin/fm-watch-arm.sh after an ordinary wake.
+
+  Stop hook blocked termination: firstmate watcher wake - one supervision event needs a handling turn now. check: rearm-resurface Run bin/fm-wake-drain.sh first, handle the wake, then run its exact
+  WAKE_ACK_REQUIRED --ack-through command. Until that post-handling acknowledgement, interruption leaves the wake durable for idempotent re-handling. This Stop hook owns watcher continuity: when
+  the handling turn ends, the next needed cycle parks automatically - do NOT run bin/fm-watch-arm.sh after an ordinary wake.
+
+  Stop hook blocked termination: firstmate watcher wake - one supervision event needs a handling turn now. check: rearm-resurface Run bin/fm-wake-drain.sh first, handle the wake, then run its exact
+  WAKE_ACK_REQUIRED --ack-through command. Until that post-handling acknowledgement, interruption leaves the wake durable for idempotent re-handling. This Stop hook owns watcher continuity: when
+  the handling turn ends, the next needed cycle parks automatically - do NOT run bin/fm-watch-arm.sh after an ordinary wake.
+
+  Stop hook blocked termination: firstmate watcher wake - one supervision event needs a handling turn now. check: rearm-resurface Run bin/fm-wake-drain.sh first, handle the wake, then run its exact
+  WAKE_ACK_REQUIRED --ack-through command. Until that post-handling acknowledgement, interruption leaves the wake durable for idempotent re-handling. This Stop hook owns watcher continuity: when
+  the handling turn ends, the next needed cycle parks automatically - do NOT run bin/fm-watch-arm.sh after an ordinary wake.
+
+  Stop hook blocked termination: firstmate watcher wake - one supervision event needs a handling turn now. check: rearm-resurface Run bin/fm-wake-drain.sh first, handle the wake, then run its exact
+  WAKE_ACK_REQUIRED --ack-through command. Until that post-handling acknowledgement, interruption leaves the wake durable for idempotent re-handling. This Stop hook owns watcher continuity: when
+  the handling turn ends, the next needed cycle parks automatically - do NOT run bin/fm-watch-arm.sh after an ordinary wake.
+
+  Stop hook blocked termination: firstmate watcher wake - one supervision event needs a handling turn now. check: rearm-resurface Run bin/fm-wake-drain.sh first, handle the wake, then run its exact
+  WAKE_ACK_REQUIRED --ack-through command. Until that post-handling acknowledgement, interruption leaves the wake durable for idempotent re-handling. This Stop hook owns watcher continuity: when
+  the handling turn ends, the next needed cycle parks automatically - do NOT run bin/fm-watch-arm.sh after an ordinary wake.
+
+  Stop hook blocked termination: firstmate watcher wake - one supervision event needs a handling turn now. check: rearm-resurface Run bin/fm-wake-drain.sh first, handle the wake, then run its exact
+  WAKE_ACK_REQUIRED --ack-through command. Until that post-handling acknowledgement, interruption leaves the wake durable for idempotent re-handling. This Stop hook owns watcher continuity: when
+  the handling turn ends, the next needed cycle parks automatically - do NOT run bin/fm-watch-arm.sh after an ordinary wake.
+
+  Stop hook blocked termination: firstmate watcher wake - one supervision event needs a handling turn now. check: rearm-resurface Run bin/fm-wake-drain.sh first, handle the wake, then run its exact
+  WAKE_ACK_REQUIRED --ack-through command. Until that post-handling acknowledgement, interruption leaves the wake durable for idempotent re-handling. This Stop hook owns watcher continuity: when
+  the handling turn ends, the next needed cycle parks automatically - do NOT run bin/fm-watch-arm.sh after an ordinary wake.
+
+  Stop hook blocked termination: firstmate watcher wake - one supervision event needs a handling turn now. check: rearm-resurface Run bin/fm-wake-drain.sh first, handle the wake, then run its exact
+  WAKE_ACK_REQUIRED --ack-through command. Until that post-handling acknowledgement, interruption leaves the wake durable for idempotent re-handling. This Stop hook owns watcher continuity: when
+  the handling turn ends, the next needed cycle parks automatically - do NOT run bin/fm-watch-arm.sh after an ordinary wake.
+
+────────────────────────────────────────────────────────────
+> New instruction from the captain, superseding the earlier no-command rule: run bin/fm-wake-drain.sh, then run the exact WAKE_ACK_REQUIRED --ack-through command it prints, then reply HANDLED and end
+  your turn. On any later supervision follow-up, do the same drain and ack, then reply HANDLED-AGAIN plus the wake reason in one line.
+
+● Ran 2 commands (bin/fm-wake-drain.sh · bin/fm-wake-drain.sh --ack-through 2 --recovery-generation 219263.1793233865.sOxy5n) (ctrl+o to expand)
+
+  HANDLED
+
+● Ran 2 commands (bin/fm-wake-drain.sh · bin/fm-wake-drain.sh --ack-through 4 --recovery-generation 220699.1793233967.kvBrex) (ctrl+o to expand)
+
+  HANDLED-AGAIN signal: /tmp/fm-lab.1YT841/fmhome/state/lab-task.status
+⢿  Working...
+└ Tip: Use /fork to branch the conversation from an earlier point.
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+>
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+esc to cancel                                                                                                                                                                       Gemini 4 Argon · low

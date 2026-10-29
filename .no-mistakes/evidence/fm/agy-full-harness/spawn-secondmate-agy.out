@@ -1,0 +1,21 @@
+fm-gate-refuse: gate agent lifecycle permitted only against lab home /tmp/fm-lab.lK4y7F
+warning: secondmate lab-agy-sm sync skipped before launch: primary default-branch commit cannot be resolved
+spawned lab-agy-sm harness=agy kind=secondmate mode=secondmate yolo=off window=primary:fm-lab-agy-sm worktree=/tmp/fm-lab-sm.Rxr9JZ/home
+SPAWN_RC=0
+--- meta
+window=primary:fm-lab-agy-sm
+endpoint_task_id=lab-agy-sm
+worktree=/tmp/fm-lab-sm.Rxr9JZ/home
+project=/tmp/fm-lab-sm.Rxr9JZ/home
+harness=agy
+kind=secondmate
+mode=secondmate
+yolo=off
+tasktmp=/tmp/fm-lab-agy-sm
+model=default
+effort=default
+spawn_gen=s1793234852.254793.31789
+home=/tmp/fm-lab-sm.Rxr9JZ/home
+projects=
+--- isolated trustedWorkspaces
+["/home/eterna2","/home/eterna2/github/nogoo9-no-crd","/home/eterna2/github/nogoo9-fantasy-general","/home/eterna2/github/firstmate","/home/eterna2/.treehouse/open-dv-8a36a9/1/open-dv","/home/eterna2/.treehouse/open-dv-8a36a9/2/open-dv","/home/eterna2/.treehouse/open-dv-8a36a9/3/open-dv","/tmp/fm-lab-sm.Rxr9JZ/home","/tmp/fm-lab.lK4y7F/scratch"]

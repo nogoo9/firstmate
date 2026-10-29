@@ -1,0 +1,12 @@
+> New instruction from the captain, superseding the earlier no-command rule: run bin/fm-wake-drain.sh, then run the exact WAKE_ACK_REQUIRED --ack-through command it prints, then reply HANDLED and end
+  your turn. On any later supervision follow-up, do the same drain and ack, then reply HANDLED-AGAIN plus the wake reason in one line.
+● Ran 2 commands (bin/fm-wake-drain.sh · bin/fm-wake-drain.sh --ack-through 2 --recovery-generation 219263.1793233865.sOxy5n) (ctrl+o to expand)
+  HANDLED
+● Ran 2 commands (bin/fm-wake-drain.sh · bin/fm-wake-drain.sh --ack-through 4 --recovery-generation 220699.1793233967.kvBrex) (ctrl+o to expand)
+  HANDLED-AGAIN signal: /tmp/fm-lab.1YT841/fmhome/state/lab-task.status
+⢿  Working...
+└ Tip: Use /fork to branch the conversation from an earlier point.
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+>
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+esc to cancel                                                                                                                                                                       Gemini 4 Argon · low
